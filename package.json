@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4",
+    "rxjs": "^7.4.0"
+  }
+}
